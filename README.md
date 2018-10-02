@@ -58,5 +58,6 @@ Microsoft is participating in Hacktoberfest this year! Details [here](https://op
 | Namandeep Singh | III | CSE |
 | Harshit Bansal | II | CSE |
 | Manpreet | I | IT |
+| Sokratis Fotkatzikis | I | IT |
 
 *When adding your name, don't add it at the beginning or end of the file. Put it anywhere in between.*
